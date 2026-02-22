@@ -1,0 +1,2 @@
+Alumno: juan - Promedio: 4.67
+Alumno: luis - Promedio: 7.33
