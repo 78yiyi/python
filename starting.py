@@ -22,8 +22,12 @@ print("La variable s es de tipo " + str(type(s) )) """
 #         print("No puedesaa")   
 
 
+a=2
+b="hola"
 
-
-
+a=str(a);
+print(a+b)
+print(type(a))
+print(type(b))
 	
 	
